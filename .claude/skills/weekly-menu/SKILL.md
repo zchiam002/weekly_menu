@@ -123,9 +123,98 @@ For any **new** ingredient introduced this week (a specialty item not yet in the
 
 **Do not change existing Status values** — those reflect Mia's reality. Only the user/Mia changes status of existing items.
 
----
+## Step 10 — WhatsApp messages
 
-If the user asks for a WhatsApp-paste version of reference video links after step 10, output plain text with no markdown — URLs auto-link in WhatsApp.
+After Steps 1–9 are complete, generate four ready-to-paste WhatsApp messages. All are **plain text, no markdown headers**. Use WhatsApp's inline formatting: `*bold*`, `_italic_`. URLs on their own line so they auto-link.
+
+Wrap each message in a code block (triple backticks) when presenting to the user — that way they can copy the contents without the code-block markers being applied.
+
+### 10a — Menu (for general sharing or pinning)
+
+Format:
+
+```
+*Week of DD Mmm YYYY dinner menu* 🍽️
+
+Note: <any heads-up like "Mon is a public holiday — eating out, no cook">
+
+*Sun DD Mmm*
+- Dish
+- Dish
+
+*Mon DD Mmm*
+- ...
+```
+
+🍽️ emoji is conventional for this user — keep it.
+
+### 10b — Cooking notes to Mia
+
+A condensed version of the prep tips that came out of the pregnancy vet (if run) plus any other dish-specific notes (substitutions, prep order, doneness checks).
+
+**Do not mention pregnancy directly** — translate each pregnancy-related caution into a generic cooking instruction. Reason: per memory, the helper should receive instructions as standing preferences, not as pregnancy-specific. Examples:
+- "Substitute sake with chicken broth" (don't say "to avoid alcohol in pregnancy")
+- "Char siew must be reheated thoroughly" (don't say "listeria risk")
+- "Reduce bird's eye chillies" (don't say "TCM heaty for T1")
+
+Format:
+
+```
+*Cooking notes — Week of DD Mmm*
+
+*<day> <dish>*
+- <instruction>
+- <instruction>
+
+*<day>*
+- <instruction>
+```
+
+### 10c — Recipe links to Mia
+
+One section per dish, day-labelled. Source URL on its own line (so WhatsApp auto-links). For dishes with no URL (household / family recipes), state that explicitly so Mia knows to ask for the method.
+
+Format:
+
+```
+*Recipe links — Week of DD Mmm*
+
+*<day> — <dish>* (any short note like "skip wine" or "with X")
+<url>
+
+*<day> — <dish>*
+Household recipe — <one-line description>
+
+*<day> — <dish>*
+<url>
+```
+
+### 10d — Reassuring message to spouse (only if pregnancy-vet was run)
+
+A personal message from the user to their partner summarising the menu and what's been adjusted for pregnancy safety. Tone: warm, brief, specific, not clinical. Empower the spouse to redirect ("anything you want swapped, just tell me").
+
+This message **can** name the pregnancy considerations directly (Western / TCM cautions, blood-tonifying ingredients, etc.) — it's between the couple, not for Mia.
+
+Format:
+
+```
+Hey love,
+
+<one-line summary of what's been planned and that it's been vetted>
+
+*Menu*
+- Sun: ...
+- Mon: ...
+...
+
+*What I've adjusted*
+- <substitution / preparation note>
+- <substitution / preparation note>
+
+<one-line warm close noting Mia has the cooking notes and offering to swap anything>
+```
+
+Skip 10d entirely if the pregnancy-vet skill was not invoked for this week.
 
 ---
 
