@@ -10,7 +10,7 @@
 - Store-bought green curry paste (Mae Ploy or Maesri — avoid Thai Kitchen)
 - Thai basil leaves, finely julienned
 - Extra krachai (fingerroot)
-- Lemongrass, tender inner stalk only, finely sliced (bruise first to release aroma)
+- Lemongrass, tender inner stalk only, finely sliced (bruise first to release aroma) — see note
 - Fermented shrimp paste (kapi)
 
 ### Curry
@@ -39,6 +39,7 @@
 ### Notes
 - Chicken thighs tenderise beautifully and release juices into the broth. If you must use breast, marinate it in fish sauce first and add at the very end — cook only 1–2 minutes to prevent drying out.
 - Serve with rice, rice vermicelli (khanom chin), roti paratha, or even spaghetti.
+- Lemongrass 香茅 carries a TCM pregnancy caution (warming, blood-moving) — omit it for anyone pregnant, especially first trimester.
 
 ## Source
 
