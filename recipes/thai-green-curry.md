@@ -10,6 +10,7 @@
 - Store-bought green curry paste (Mae Ploy or Maesri — avoid Thai Kitchen)
 - Thai basil leaves, finely julienned
 - Extra krachai (fingerroot)
+- Lemongrass, tender inner stalk only, finely sliced (bruise first to release aroma)
 - Fermented shrimp paste (kapi)
 
 ### Curry
@@ -25,7 +26,7 @@
 
 ## Method
 
-1. **Enhance the paste (optional):** Pound julienned Thai basil, extra krachai, and shrimp paste into the store-bought paste. Boosts colour, herbal aroma, and umami.
+1. **Enhance the paste (optional):** Pound julienned Thai basil, extra krachai, sliced lemongrass, and shrimp paste into the store-bought paste. Boosts colour, herbal aroma, and umami.
 2. **Fry the paste:** Bring a portion of the coconut milk to a full boil. Add the paste and sauté a few minutes, stirring continuously, until the coconut oil separates and floats to the top.
 3. **Cook the chicken:** Cook another minute after oil separates, then stir in chicken thigh pieces and coat in the paste.
 4. **Add liquids and season:** Pour in the remaining coconut milk and chicken stock. Season early with palm sugar and fish sauce so the chicken absorbs flavour. Add the bruised lime leaves.
