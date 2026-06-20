@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls \"D:\\\\ZLStuff\\\\development\\\\weekly_menus\" 2>&1; echo \"---\"; ls \"D:\\\\ZLStuff\\\\development\\\\weekly_menu\" 2>&1)",
+      "Bash(ls -la \"D:\\\\ZLStuff\\\\development\\\\\" 2>&1 | grep -i weekly)",
+      "Skill(weekly-menu)",
+      "Skill(weekly-menu:*)",
+      "Bash(python -c ' *)",
+      "Bash(python -c \"from openpyxl import load_workbook; wb = load_workbook\\('dish-rotation.xlsx', data_only=True\\); ws = wb['Cook log']; [print\\(row\\) for row in ws.iter_rows\\(values_only=True\\)]\")",
+      "Bash(stew\")"
+    ]
+  }
+}
