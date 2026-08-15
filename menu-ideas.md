@@ -14,7 +14,7 @@ A parking lot for tentative weekly menus and individual dish candidates. Nothing
 
 **Tue 2 Jun**
 - Thai green curry — recipe: `recipes/thai-green-curry.md` (rotation entry exists as "Green curry")
-- Pla mun tod (Thai fishcakes) — recipe: `recipes/thai-fish-cakes.md`
+- Pla mun tod (Thai fishcakes) — **recipe needed**; the old file was deleted (no quantities, no servings). Source: https://www.youtube.com/watch?v=aMD3MLJRV38
 
 **Wed 3 Jun**
 - Prawn noodle soup — recipe: `recipes/prawn-noodle-soup.md`
