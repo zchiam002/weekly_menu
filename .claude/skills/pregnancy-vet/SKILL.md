@@ -5,7 +5,7 @@ description: Vet a weekly menu or market list for pregnancy safety, applying bot
 
 # Pregnancy-safe menu vet (Western + TCM)
 
-A final-pass check on a planned menu or consolidated market list, run before the list is handed off to Mia or used for shopping. Output is a discussion list — **not medical advice**. Always flag that the user should cross-check with their actual GP and TCM physician.
+A final-pass check on a planned menu or consolidated market list, run before the list is handed off to Jayzel or used for shopping. Output is a discussion list — **not medical advice**. Always flag that the user should cross-check with their actual GP and TCM physician.
 
 Follow these 5 steps in order. After any step that asks for user input, **wait for the user's confirmation before moving on**.
 
@@ -115,7 +115,7 @@ Suggested swap: <only if AVOID>
 ## Summary
 - Dishes to swap: <list>
 - Dishes to adjust preparation: <list>
-- Ingredients Mia should flag at the market or in the kitchen: <list>
+- Ingredients Jayzel should flag at the market or in the kitchen: <list>
 - Net assessment: <one paragraph>
 
 ## Disclaimer
@@ -139,6 +139,6 @@ Save the report as `pregnancy-vet/YYYY-MM-DD.md` (Monday's date), at the project
 
 ## When to use this skill
 
-- After Step 7 of the weekly-menu workflow (consolidated market list), before passing it to Mia.
+- After Step 7 of the weekly-menu workflow (consolidated market list), before passing it to Jayzel.
 - Ad-hoc when the user pastes a menu, a market list, or a single dish and asks for a pregnancy check.
 - When the user mentions a new dietary constraint that comes from a prenatal appointment.

@@ -1,11 +1,11 @@
 ---
 name: weekly-menu
-description: Plan a weekly dinner menu (Mon–Fri) and propagate it through the kitchen workflow — week file, recipes, market list, Mia's pantry questions, dish rotation, inventory. Use when the user mentions "this week's menu", "next week's menu", "plan menu", "weekly menu", or "menu for the week".
+description: Plan a weekly dinner menu (Mon–Fri) and propagate it through the kitchen workflow — week file, recipes, market list, Jayzel's pantry questions, dish rotation, inventory. Use when the user mentions "this week's menu", "next week's menu", "plan menu", "weekly menu", or "menu for the week".
 ---
 
 # Weekly menu planning
 
-User plans Mon–Fri dinners for ~5.5 adults. Mia is the household helper. All artifacts live in `D:\ZLStuff\development\weekly_menus\`.
+User plans Mon–Fri dinners for ~5.5 adults. Jayzel is the household helper (since 3 Oct 2026; Mia before). All artifacts live in `D:\ZLStuff\development\weekly_menus\`.
 
 Follow these 9 steps in order. After any step that asks for user input, **wait for the user's confirmation before moving on** — do not skip ahead.
 
@@ -68,9 +68,9 @@ For each dish in the menu, check `recipes/`:
 - **Update** (user changed an existing recipe): edit `recipes/<dish>.md`.
 - **Create** (new dish): write `recipes/<kebab-case-name>.md`. Match the existing structure — H1 title, `**Servings:**` line, ingredient sections (use `###` subsections like Marinade / Gravy / Sauce when natural), source link at bottom. Preserve Chinese names where present (e.g., `鱼香茄子`).
 
-## Step 6 — Questions to Mia
+## Step 6 — Questions to Jayzel
 
-Generate a numbered pantry-check list to send to Mia via WhatsApp. Cover:
+Generate a numbered pantry-check list to send to Jayzel via WhatsApp. Cover:
 - Specialty items (curry pastes, wasabi, dashi, broad bean paste, etc.)
 - Quantity-sensitive staples (oils, sauces, butter, baking soda)
 - Items used heavily this week (minced pork, eggs, ginger, garlic)
@@ -81,7 +81,7 @@ Cross-reference `kitchen-inventory.xlsx` Inventory tab — anything at Status `L
 Format:
 
 ```
-Questions to Mia:
+Questions to Jayzel:
 1. How much X do we have left?
 2. Do we have Y?
 ...
@@ -121,7 +121,7 @@ Use Python + openpyxl (the workbook has formulas — use `load_workbook` to pres
 
 For any **new** ingredient introduced this week (a specialty item not yet in the Inventory tab), add a row to `kitchen-inventory.xlsx` → "Inventory" tab with Status = `Out` (it'll be on the shopping list).
 
-**Do not change existing Status values** — those reflect Mia's reality. Only the user/Mia changes status of existing items.
+**Do not change existing Status values** — those reflect Jayzel's reality. Only the user/Jayzel changes status of existing items.
 
 ## Step 10 — WhatsApp messages
 
@@ -148,7 +148,7 @@ Note: <any heads-up like "Mon is a public holiday — eating out, no cook">
 
 🍽️ emoji is conventional for this user — keep it.
 
-### 10b — Cooking notes to Mia
+### 10b — Cooking notes to Jayzel
 
 A condensed version of the prep tips that came out of the pregnancy vet (if run) plus any other dish-specific notes (substitutions, prep order, doneness checks).
 
@@ -170,9 +170,9 @@ Format:
 - <instruction>
 ```
 
-### 10c — Recipe links to Mia
+### 10c — Recipe links to Jayzel
 
-One section per dish, day-labelled. Source URL on its own line (so WhatsApp auto-links). For dishes with no URL (household / family recipes), state that explicitly so Mia knows to ask for the method.
+One section per dish, day-labelled. Source URL on its own line (so WhatsApp auto-links). For dishes with no URL (household / family recipes), state that explicitly so Jayzel knows to ask for the method.
 
 Format:
 
@@ -193,7 +193,7 @@ Household recipe — <one-line description>
 
 A personal message from the user to their partner summarising the menu and what's been adjusted for pregnancy safety. Tone: warm, brief, specific, not clinical. Empower the spouse to redirect ("anything you want swapped, just tell me").
 
-This message **can** name the pregnancy considerations directly (Western / TCM cautions, blood-tonifying ingredients, etc.) — it's between the couple, not for Mia.
+This message **can** name the pregnancy considerations directly (Western / TCM cautions, blood-tonifying ingredients, etc.) — it's between the couple, not for Jayzel.
 
 Format:
 
@@ -211,7 +211,7 @@ Hey love,
 - <substitution / preparation note>
 - <substitution / preparation note>
 
-<one-line warm close noting Mia has the cooking notes and offering to swap anything>
+<one-line warm close noting Jayzel has the cooking notes and offering to swap anything>
 ```
 
 Skip 10d entirely if the pregnancy-vet skill was not invoked for this week.
@@ -229,7 +229,7 @@ Skip 10d entirely if the pregnancy-vet skill was not invoked for this week.
 ## Conventions
 
 - Household: ~5.5 adults (default scale)
-- Mia = helper; pantry questions go to WhatsApp
+- Jayzel = helper; pantry questions go to WhatsApp
 - WhatsApp-paste output: plain text only, no markdown
 - Preserve Chinese names where present (e.g., `鱼香茄子`)
 - Use ISO dates for week files (`YYYY-MM-DD`)
