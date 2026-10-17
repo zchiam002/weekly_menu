@@ -28,6 +28,13 @@
 4. Add the fish balls and simmer until heated through and the pork is cooked.
 5. (Optional) Blanch spinach in boiling water briefly, drain, and add to the bowls just before serving.
 
+## Variation — fishball and wawa vegetable soup (the user, 18 Oct 2026)
+
+No minced pork and no pork balls: just fishballs and wawa vegetable (baby napa cabbage) in the
+chicken broth, seasoned with anchovy powder. **3 fishballs per person, rounded to the nearest even
+number** (16 for 5.5), bought fresh by the helper early on the morning of cooking. The wawa vegetable
+simmers until soft, then the fishballs go in until they float and are hot through.
+
 ## Source
 
 Household recipe

@@ -39,6 +39,30 @@
 - Chicken thighs tenderise beautifully and release juices into the broth. If you must use breast, marinate it in fish sauce first and add at the very end — cook only 1–2 minutes to prevent drying out.
 - Serve with rice, rice vermicelli (khanom chin), roti paratha, or even spaghetti.
 
+## The household's version with the Dancing Chef packet (the user, 17–18 Oct 2026)
+
+For 3 people. Eggplant, long beans and carrot instead of the Thai eggplant and bell peppers. No fish
+sauce and no Thai basil — the packet covers them.
+
+- 3 chicken thighs
+- 1 eggplant
+- 1 small carrot
+- 80g long beans
+- 1 packet Dancing Chef green curry paste (amount as the packet says)
+- 100ml water
+- 200ml Kara coconut milk
+- 2 kaffir lime leaves
+- ½ tbsp sugar
+
+1. Cut the ends off the long beans and throw them away. Blanch the beans in hot water first.
+2. Sear the chicken first.
+3. Add the vegetables and stir-fry briefly, then take the vegetables out.
+4. Fry the curry paste with the chicken.
+5. Add the water, then the coconut milk, the sugar and the kaffir lime leaves.
+6. Simmer for 15 minutes.
+7. Put the vegetables back in for the last 10 minutes of the simmer only.
+8. Cut the biggest piece of chicken open: no pink.
+
 ## Source
 
 https://www.youtube.com/watch?v=3Z9lEOGmSjw

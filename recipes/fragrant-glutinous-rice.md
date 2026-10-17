@@ -30,6 +30,31 @@
 5. **Cook:** Turn off the open-lid cooking function, close and lock the lid, switch to rice-cooking mode and cook until complete.
 6. **Finish and serve:** Release any residual steam, open the lid, fluff the rice and serve.
 
+## The household's version (the user, 18 Oct 2026)
+
+For 5.5 people. No multi-cooker: everything is fried in a wok first, then cooked in an ordinary rice
+cooker (not a pressure cooker), so it needs longer.
+
+- Glutinous rice for 5.5 pax (measure it dry, before soaking)
+- 300g pork belly, cut into thin strips
+- 2 Chinese sausages, thinly sliced
+- 60g dried shrimp *(estimate, double the video)*
+- 12 dried mushrooms, cut into strips *(estimate, double the video)*
+- 3 tbsp oyster sauce · 3 tbsp premium dark soy sauce · white pepper *(estimate, double the video)*
+- Water at **1:1** with the rice
+
+1. Soak the rice 2 hours, then drain. Soak the dried shrimp and the mushrooms; cut the mushrooms into
+   strips.
+2. In a wok: stir-fry the mushrooms, then the dried shrimp, until fragrant. Add the pork belly and fry
+   until the colour changes. Add the sausage for 1–2 minutes.
+3. Add the drained rice, the oyster sauce, dark soy and white pepper and stir-fry until every grain is
+   coated.
+4. Move it all to the rice cooker, add water 1:1 with the rice, and cook on the normal setting —
+   about 30–40 minutes on an ordinary cooker *(estimate)*.
+5. When it finishes, leave the lid closed on keep-warm for another 15 minutes. If the centre is still
+   hard, sprinkle 2–3 tbsp water, stir and cook or steam another 10–15 minutes *(estimate)*.
+6. In all, about 45–55 minutes in the rice cooker: start it about 1 hour before dinner *(estimate)*.
+
 ## Source
 
 https://www.youtube.com/watch?v=rDE5HZLT5Uo

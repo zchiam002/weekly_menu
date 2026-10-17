@@ -30,6 +30,12 @@
 5. **Rice:** Add the uncooked jasmine rice and stir to coat every grain. Add the water and the final 1 tbsp dark soy sauce.
 6. **Cook:** Transfer to the rice cooker (or cover and cook on low) until the rice is done and the yam is soft. Fluff and rest before serving.
 
+## Variation — pork belly (the user's preference, 17 Oct 2026)
+
+Use sliced pork belly instead of the chicken thigh: the same steps, stir-fried until the colour
+changes before the yam goes in. Cooked through, no pink. For 5.5 people that is about 380g (the
+recipe's 240g ×1.6) *(estimate)*.
+
 ## Source
 
 https://youtu.be/gNo1MrMVNjQ?is=e0Twom1mEsxHwxZb

@@ -52,6 +52,13 @@
 4. Remove the lid, flip again, put the lid back on and cook for another 3 minutes.
 5. Remove the lid and brown all sides in the pan until fully cooked through.
 
+## Household portions (the user, 18 Oct 2026)
+
+Individually frozen chicken mid wings, **2 per person** (12 for 5.5 people). For 12 mid wings (about
+450g) the marinade is roughly a quarter of the recipe: 1 tbsp light soy, 1 tbsp oyster sauce, ¼ tsp
+sugar, ¼ tsp salt, 2 garlic cloves, 1 spring onion, white pepper *(estimate)*. Mid wings are small —
+start checking at 20 minutes in the oven.
+
 ## Source
 
 https://www.youtube.com/watch?v=UcKDfhNjFOk
